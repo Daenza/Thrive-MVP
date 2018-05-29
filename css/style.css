@@ -67,7 +67,8 @@ p{
     font-size: 15px;
     text-decoration: none;
     background-color: #e5b320;
-    color: white;    
+    color: white;
+    margin: 10px auto;
 }
 
 .btn-custom:hover{
